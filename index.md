@@ -1,3 +1,7 @@
+# Miles Brown's GitHub Page
+
+This is the Github Page of Purdue CS Undergraduate student Miles Brown
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
